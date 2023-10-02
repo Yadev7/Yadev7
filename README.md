@@ -7,7 +7,7 @@ A Full Stack Developer from MOROCCO
 </div> <br/>
 
 - 🔭 I’m currently working on New Dev Maroc
-- 🌱 I’m currently learning <b> Angular </b>
+- 🌱 I’m currently learning <b> Angular, Python </b>
 - 👯 I’m looking to collaborate on (LOADING ...)
 - 🤔 I’m looking for help with (LOADING ...)
 - 💬 Ask me about Vue Js
