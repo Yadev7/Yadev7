@@ -13,6 +13,12 @@ A Full Stack Developer from MOROCCO
 - 💬 Ask me about Vue Js
 - 📫 How to reach me: &nbsp; <a href="mailto: abdelouafi.yassine@gmail.com"> <img src="https://camo.githubusercontent.com/65228d1d83e81cf0676b4ac50d341a8a762a61972af848e1e9d55cb3f317cb75/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a61686c616d62656b6b616c693140676d61696c2e636f6d" /> &nbsp; </a> <a href="#" > <img src="https://camo.githubusercontent.com/9cb5d7cc73c87cd41e629f955ab0698860b69f5b22d939c3822e9abe73337832/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d486f746d61696c2d3030373844343f7374796c653d666c61742d737175617265266c6f676f3d6d6963726f736f66742d6f75746c6f6f6b266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a61686c616d62656b6b616c693140676d61696c2e636f6d" /> </a>
 
+
+<b>Connect with me:</b><br/>
+
+ [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=YassineAbdelou) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-abdelouafi-44504249/)
+
+
 <b>Languages and Tools:</b><br/>
 <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png" style="height:40px;width:40px" />
 
@@ -29,8 +35,3 @@ A Full Stack Developer from MOROCCO
 <img src="https://www.zdnet.com/a/img/resize/e7aff3398e12f0fa70fd66238d743054c4c8b95e/2018/04/19/092cbf81-acac-4f3a-91a1-5a26abc1721f/postgresql-logo.png?auto=webp&fit=crop&height=900&width=1200" style="height:35px;width:35px" />
 
 ### Keep surfing
-
-<b>Connect with me:</b><br/>
-
- [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=YassineAbdelou) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-abdelouafi-44504249/)
-
