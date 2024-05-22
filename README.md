@@ -28,23 +28,9 @@ A Full Stack Developer from MOROCCO
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="height:35px;width:35px" />&nbsp;&nbsp;
 <img src="https://www.zdnet.com/a/img/resize/e7aff3398e12f0fa70fd66238d743054c4c8b95e/2018/04/19/092cbf81-acac-4f3a-91a1-5a26abc1721f/postgresql-logo.png?auto=webp&fit=crop&height=900&width=1200" style="height:35px;width:35px" />
 
+### Keep surfing
+
 <b>Connect with me:</b><br/>
 
-<a href="https://twitter.com/YassineAbdelou" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" style="height:35px; width:35px"/></a>&nbsp; &nbsp; <a href="https://www.linkedin.com/in/yassine-abdelouafi-44504249/" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="height: 35px; width: 35px"/></a> &nbsp; &nbsp; <a href="https://www.facebook.com/YaDev7" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" style="height: 35px; width: 35px"/></a> &nbsp;&nbsp;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=YassineAbdelou) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/yassine-abdelouafi-44504249/)
 
