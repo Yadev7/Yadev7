@@ -7,10 +7,10 @@ A Full Stack Developer from MOROCCO
 </div> <br/>
 
 - 🔭 I’m currently working on New Dev Maroc
-- 🌱 I’m currently learning <b> Angular, Python </b>
+- 🌱 I’m currently learning <b> Python, Flutter </b>
 - 👯 I’m looking to collaborate on (LOADING ...)
 - 🤔 I’m looking for help with (LOADING ...)
-- 💬 Ask me about Vue Js
+- 💬 Ask me about VueJs , Angular , NestJs
 - 📫 How to reach me: &nbsp; <a href="mailto: abdelouafi.yassine@gmail.com"> <img src="https://camo.githubusercontent.com/65228d1d83e81cf0676b4ac50d341a8a762a61972af848e1e9d55cb3f317cb75/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a61686c616d62656b6b616c693140676d61696c2e636f6d" /> &nbsp; </a> <a href="#" > <img src="https://camo.githubusercontent.com/9cb5d7cc73c87cd41e629f955ab0698860b69f5b22d939c3822e9abe73337832/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d486f746d61696c2d3030373844343f7374796c653d666c61742d737175617265266c6f676f3d6d6963726f736f66742d6f75746c6f6f6b266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a61686c616d62656b6b616c693140676d61696c2e636f6d" /> </a>
 
 
