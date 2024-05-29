@@ -24,7 +24,13 @@ A Full Stack Developer from MOROCCO
 
 <b>Front-end :</b><br/>
 
-<a href=""><img style="height:35px; width:35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" /></a>&nbsp;<a href=""><img style="height:35px; width:35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" /></a>&nbsp;<a href=""><img style="height:35px; width:35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" /></a>&nbsp;<a href=""><img style="height:35px; width:35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></a>&nbsp;<a href=""><img style="height:35px; width:35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" /> <br/>
+<a href=""><img style="height:35px; width:35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" /></a>&nbsp;
+<a href=""><img style="height:35px; width:35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" /></a>&nbsp;
+<a href=""><img style="height:35px; width:35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" /></a>&nbsp;
+<a href=""><img style="height:35px; width:35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></a>&nbsp;
+<a href=""><img style="height:35px; width:35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" /> <br/>
+<a href=""><img style="height:35px; width:35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original-wordmark.svg" /> <br/>
+
 
 <b>Back-end :</b><br/>
 
