@@ -7,7 +7,7 @@ A Full Stack Developer from MOROCCO
 </div> <br/>
 
 - 🔭 I’m currently working on New Dev Maroc
-- 🌱 I’m currently learning <b> Python, Flutter </b>
+- 🌱 I’m currently learning <b> Python, NextJs </b>
 - 👯 I’m looking to collaborate on (LOADING ...)
 - 🤔 I’m looking for help with (LOADING ...)
 - 💬 Ask me about VueJs , Angular , NestJs
